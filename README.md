@@ -30,3 +30,18 @@ I’m an experienced Systems Administrator transitioning into a more advanced, i
 ---
 
 ##
+---
+
+##Cert Timeline & Progress
+
+| Certification | Platform | Status |
+|---------------|----------|--------|
+| SOC Level 1 | TryHackMe | In Progress |
+| Jr PenTester | TryHackMe | Not Started |
+| AWS Solutions Architect Associate | Cloud Academy | Not Started |
+| HTB CPTS | Hack The Box Academy | Not Started |
+| Terraform Associate | KodeKloud | Optional |
+
+---
+
+##Repo Structure
